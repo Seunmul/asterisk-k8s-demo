@@ -1,6 +1,6 @@
-# Fork From https://github.com/CyCoreSystems/asterisk-k8s-demo/
-생성일자 : 2022.12.27
-최종수정 : 2022.12.27
+## Fork From https://github.com/CyCoreSystems/asterisk-k8s-demo/
+- 생성일자 : 2022.12.27   
+- 최종수정 : 2022.12.27
 
 # Asterisk on Kubernetes Demo
 
